@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu perfil!
 
-![Banner](banneredu.JPG)
+![Banner](banneredu.png)
 
 ## 🚀 Sobre mim
 Sou desenvolvedor apaixonado por tecnologia, APIs e soluções criativas.
